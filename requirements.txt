@@ -1,0 +1,10 @@
+# Core & Datacomm Assurance Automation - Runtime Dependencies
+pandas>=2.0.0
+openpyxl>=3.1.0
+textfsm>=2.1.0
+streamlit>=1.30.0
+python-telegram-bot>=20.0
+netmiko>=4.3.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+urllib3>=2.0.0
